@@ -1,2 +1,2 @@
-# stripe
-Accept Stripe Payment thru your website
+# eZiAdmin
+Your eCommerce choice...
